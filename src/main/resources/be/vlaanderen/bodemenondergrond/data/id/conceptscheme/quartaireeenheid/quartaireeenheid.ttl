@@ -1,0 +1,1491 @@
+@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/quartaireeenheid/> .
+@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
+@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/> .
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ct:H02  rdf:type           skos:Concept;
+        dc:identifier      "H02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindrijk facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F31  rdf:type           skos:Concept;
+        dc:identifier      "F31";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies - Saalien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Ø    rdf:type           skos:Concept;
+        dc:identifier      "Ø";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind facies (Maas en Rijn, Lanklaar)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F52  rdf:type           skos:Concept;
+        dc:identifier      "F52";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fijn zand tot klei - Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:f1   rdf:type           skos:Concept;
+        dc:identifier      "f1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E10  rdf:type           skos:Concept;
+        dc:identifier      "E10";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Lichte zandleem tot silt - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/H'>
+        rdf:type           skos:Concept;
+        dc:identifier      "H'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd grofkorrelig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:R    rdf:type           skos:Concept;
+        dc:identifier      "R";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES07  rdf:type          skos:Concept;
+        dc:identifier      "ES07";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig/kleiig complex - Midden-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:g    rdf:type           skos:Concept;
+        dc:identifier      "g";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, niveo-eolisch, fluviatiel"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F02  rdf:type           skos:Concept;
+        dc:identifier      "F02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies op kleiig facies - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/¦>
+        rdf:type           skos:Concept;
+        dc:identifier      "¦";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig tot grindrijk facies (Maas en Rijn, Leut)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F23  rdf:type           skos:Concept;
+        dc:identifier      "F23";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:å    rdf:type           skos:Concept;
+        dc:identifier      "å";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silt met intercalaties van kleiige, venige en/of zandige laagjes"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F44  rdf:type           skos:Concept;
+        dc:identifier      "F44";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand- en grindfacies (Maas en Rijn, Winterslag) - Vroeg-Pleistoceen, post-Jaromillo"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<file:///tmp/RtmpEF6ALB/file195c526ef8efe.jsonld>
+        rdf:type           skos:Concept;
+        dc:identifier      "^F" , "^" , "^W" , "^H" , "^Q" , "^K" , "<<";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind tot grindrijk zandig facies"@nl , "Grind (Maas en Rijn, Eisden-Lanklaar)"@nl , "Grind facies (Maas en Rijn, Zutendaal)"@nl , "Grindhoudend en grindrijk zand tot grind"@nl , "Grindrijk facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/c°>
+        rdf:type           skos:Concept;
+        dc:identifier      "c°";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fining-up cyclus, mogelijks met veen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E02  rdf:type           skos:Concept;
+        dc:identifier      "E02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie en bedekt met een veenlaag direct onder de eolische afzettingen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F3   rdf:type           skos:Concept;
+        dc:identifier      "F3";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:D02  rdf:type           skos:Concept;
+        dc:identifier      "D02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindrijk facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Gh   rdf:type           skos:Concept;
+        dc:identifier      "Gh";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Hellingsgrind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M12  rdf:type           skos:Concept;
+        dc:identifier      "M12";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V01  rdf:type           skos:Concept;
+        dc:identifier      "V01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Venig complex - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:t    rdf:type           skos:Concept;
+        dc:identifier      "t";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig/zandig complex (Lid van Turnhout)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F15  rdf:type           skos:Concept;
+        dc:identifier      "F15";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies op dominant silteus facies op dominant zandig facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H07  rdf:type           skos:Concept;
+        dc:identifier      "H07";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F36  rdf:type           skos:Concept;
+        dc:identifier      "F36";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindrijk facies - Midden- en/of Laat-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/w'>
+        rdf:type           skos:Concept;
+        dc:identifier      "w'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:W1   rdf:type           skos:Concept;
+        dc:identifier      "W1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over gehele sequentie en bedekt met eolische afzettingen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Y2   rdf:type           skos:Concept;
+        dc:identifier      "Y2";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen en aan de basis het basisveen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:T01  rdf:type           skos:Concept;
+        dc:identifier      "T01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Ondiep Tertiair substraat - Quartair  en Tertiair"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:B    rdf:type           skos:Concept;
+        dc:identifier      "B";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, Pleistoceen continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M04  rdf:type           skos:Concept;
+        dc:identifier      "M04";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand met aan de basis het basisveen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:l    rdf:type           skos:Concept;
+        dc:identifier      "l";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES12  rdf:type          skos:Concept;
+        dc:identifier      "ES12";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig complex - Vroeg-Pleistoceen –Tertiair (2)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F07  rdf:type           skos:Concept;
+        dc:identifier      "F07";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Lemig zandfacies tot kleiig facies - Tardiglaciaal tot  Vroeg-Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F28  rdf:type           skos:Concept;
+        dc:identifier      "F28";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies - Eemien en/of        Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ÿ    rdf:type           skos:Concept;
+        dc:identifier      "ÿ";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig complex"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F49  rdf:type           skos:Concept;
+        dc:identifier      "F49";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies tot grindfacies (Schelde) - Vroeg- en/of Midden-Pleistoceen – Tertiair (3)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/S'>
+        rdf:type           skos:Concept;
+        dc:identifier      "S'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E07  rdf:type           skos:Concept;
+        dc:identifier      "E07";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand tot zandleem met mogelijks in het basisgedeelte een alternatie van fijnere en grovere laagjes - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+cs:quartaireeenheid  skos:hasTopConcept
+                ct:E07 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/c°> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/k'> , ct:F04 , ct:Gb , ct:ÿ , ct:F07 , ct:F18 , ct:HW01 , ct:h , ct:F46 , ct:Rf , ct:M07 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/§> , ct:F10 , ct:k1 , ct:æ , ct:D , ct:F31 , ct:F21 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/x'> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/w'> , ct:M13 , ct:ES06 , ct:H03 , ct:P , ct:S , ct:á , ct:X1 , ct:W1 , ct:d1 , ct:F28 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/h'> , ct:k , ct:f2 , ct:D03 , ct:F49 , ct:F13 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/ç'> , ct:V02 , ct:Ru , ct:G , ct:F34 , ct:F44 , ct:Ø , ct:E11 , ct:E01 , ct:ES09 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/V'> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/#> , ct:M11 , ct:M01 , ct:v , ct:b , ct:ES04 , ct:F50 , ct:X4 , ct:H01 , ct:Gv , ct:n , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/F'> , ct:F08 , ct: , ct:V05 , ct:ES10 , ct:F3 , ct:F19 , ct:HW02 , ct:i , ct:F47 , ct:D01 , ct:F37 , ct:E04 , ct:F11 , ct:F01 , ct:Y , ct:k2 , ct:A01 , ct:ç , ct:F32 , ct:F22 , ct:M14 , ct:M04 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/q'> , ct:ES07 , ct:K1 , ct:H04 , ct:V1 , ct:t , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/f'> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/e'> , ct:A , ct:ES13 , ct:Z3 , ct:l , ct:M , ct:f3 , ct:D04 , ct:Þ , ct:F14 , ct:V03 , ct:F1 , ct:H , ct:F35 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/S'> , ct:F25 , ct:E02 , ct:H07 , ct:å , ct:Æ , <file:///tmp/RtmpEF6ALB/file195c526ef8efe.jsonld> , ct:F20 , ct:M02 , ct:w , ct:c , ct:F41 , ct:F51 , ct:H02 , ct:o , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/?> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/®> , ct:V06 , ct:ES11 , ct:ES01 , ct:Y1 , ct:T01 , ct:f1 , ct:D02 , ct:K , ct:F38 , ct:F48 , ct:E05 , ct:E08 , ct:F12 , ct:F02 , ct:F05 , ct:Z , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/p'> , ct:F23 , ct:M05 , ct:z , ct:ES08 , ct:ô , ct:K2 , ct:f , ct:H05 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/¥> , ct:ON01 , ct:u , ct:a , ct:B , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/a'> , ct:W3 , ct:Y4 , ct:m , ct:N , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/j'> , ct:ß , ct:D1 , ct:Q , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/H'> , ct:F15 , ct:V04 , ct:F2 , ct:F36 , ct:F26 , ct:F29 , ct:E03 , ct:M08 , ct:H08 , ct:X , ct:Ç , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/v'> , ct:x , ct:d , ct:E , ct:Rb , ct:F42 , ct:F52 , ct:M03 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/£> , ct:p , ct:â , ct:Gh , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/!> , ct:ES12 , ct:ES02 , ct:Y2 , ct:X2 , ct:T02 , ct:Gt , ct:F39 , ct:E06 , ct:E09 , ct:F03 , ct:X11 , ct:F06 , ct:é , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/f°> , ct:F24 , ct:F17 , ct:M06 , ct:g , ct:õ , ct:F45 , ct:H06 , ct:E12 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/¦> , ct:Gk , ct:C , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/$> , ct:F30 , ct:F40 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/µ> , ct:M12 , ct:ES05 , ct:O , ct:R , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/y'> , ct:Á , ct:F16 , ct:F09 , ct:F27 , ct:M09 , ct:j , ct:Rh , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/©> , ct:V01 , ct:y , ct:e , ct:F , ct:F33 , ct:F43 , ct:E10 , ct:q , ct:U , ct:V2 , ct:M10 , ct:ES03 , ct:X3 .
+
+ct:X4   rdf:type           skos:Concept;
+        dc:identifier      "X4";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag en aan de basis het basisveen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:O    rdf:type           skos:Concept;
+        dc:identifier      "O";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd klastisch facies, veen, mogelijks kalkgyttja"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES04  rdf:type          skos:Concept;
+        dc:identifier      "ES04";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies, mogelijks schelprijk - Eemien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V06  rdf:type           skos:Concept;
+        dc:identifier      "V06";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Venig complex - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:d    rdf:type           skos:Concept;
+        dc:identifier      "d";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, eolisch"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:y    rdf:type           skos:Concept;
+        dc:identifier      "y";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Pré-Saaliaan continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/£>
+        rdf:type           skos:Concept;
+        dc:identifier      "£";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand- en grindfacies (Maas en Rijn, Lommel)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F20  rdf:type           skos:Concept;
+        dc:identifier      "F20";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant silteus facies op dominant zandig facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:â    rdf:type           skos:Concept;
+        dc:identifier      "â";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Homogeen silt gevolgd door silt met intercalaties van kleiige, venige en/of zandige laagjes"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F41  rdf:type           skos:Concept;
+        dc:identifier      "F41";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig complex met venige-humeuze en kleiige-silteuze lagen - Vroeg-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Rh   rdf:type           skos:Concept;
+        dc:identifier      "Rh";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Hellingsgrind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/h'>
+        rdf:type           skos:Concept;
+        dc:identifier      "h'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:G    rdf:type           skos:Concept;
+        dc:identifier      "G";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, niveo-eolisch, fluviatiel"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M09  rdf:type           skos:Concept;
+        dc:identifier      "M09";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Veen en/of organisch gyttja over de gehele sequentie met aan de top een klei- of zandlaag waarvan de dikte kleiner is dan de dikte van de veenlaag - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:q    rdf:type           skos:Concept;
+        dc:identifier      "q";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus tot kleiig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F12  rdf:type           skos:Concept;
+        dc:identifier      "F12";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant grind, zand (Maas en Rijn, Geistingen) - Laat-Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:X11  rdf:type           skos:Concept;
+        dc:identifier      "X11";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand, geulopvulling over gehele sequentie"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H04  rdf:type           skos:Concept;
+        dc:identifier      "H04";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus tot kleiig facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F33  rdf:type           skos:Concept;
+        dc:identifier      "F33";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind (Maas en Rijn, Eisden-Lanklaar) - Saalien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:f3   rdf:type           skos:Concept;
+        dc:identifier      "f3";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Ru   rdf:type           skos:Concept;
+        dc:identifier      "Ru";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E12  rdf:type           skos:Concept;
+        dc:identifier      "E12";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Homogene silt en silt met intercalaties van kleiige en zandige laagjes - Saalien en/of Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/?>
+        rdf:type           skos:Concept;
+        dc:identifier      "?";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig tot grindrijk facies (Maas en Rijn, Leut)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M01  rdf:type           skos:Concept;
+        dc:identifier      "M01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand , geulopvulling over gehele sequentie - Laat-Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES09  rdf:type          skos:Concept;
+        dc:identifier      "ES09";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig/zandig complex (Lid van Turnhout) - Vroeg- Pleistoceen – Tertiair (1)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:i    rdf:type           skos:Concept;
+        dc:identifier      "i";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig/kleiig complex"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F04  rdf:type           skos:Concept;
+        dc:identifier      "F04";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig facies op zandig facies - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F25  rdf:type           skos:Concept;
+        dc:identifier      "F25";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ç    rdf:type           skos:Concept;
+        dc:identifier      "ç";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Herwerkte Tertiaire afzettingen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F46  rdf:type           skos:Concept;
+        dc:identifier      "F46";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies met bodemhorizonten en veenlagen (Lid van Beerse) - Vroeg-Pleistoceen – Tertiair (1)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/x'>
+        rdf:type           skos:Concept;
+        dc:identifier      "x'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies met bodemhorizonten en veenlagen (Lid van Beerse)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E04  rdf:type           skos:Concept;
+        dc:identifier      "E04";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies - Laat-Pleniglaciaal (Weichselien) en/of Vroeg-Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:     rdf:type           skos:Concept;
+        dc:identifier      "]";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fining-up sequentie (Schelde)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:X1   rdf:type           skos:Concept;
+        dc:identifier      "X1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie zonder veenlagen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:D04  rdf:type           skos:Concept;
+        dc:identifier      "D04";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES01  rdf:type          skos:Concept;
+        dc:identifier      "ES01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies (zandig tot kleiig) - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M14  rdf:type           skos:Concept;
+        dc:identifier      "M14";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant kleiig facies - Eemien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V03  rdf:type           skos:Concept;
+        dc:identifier      "V03";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Veen op zandig facies - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:a    rdf:type           skos:Concept;
+        dc:identifier      "a";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, hellingsafzettingen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F17  rdf:type           skos:Concept;
+        dc:identifier      "F17";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant silteus facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:v    rdf:type           skos:Concept;
+        dc:identifier      "v";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/µ>
+        rdf:type           skos:Concept;
+        dc:identifier      "µ";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Complex van Melle"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F38  rdf:type           skos:Concept;
+        dc:identifier      "F38";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies - Midden- en/of Laat-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ß    rdf:type           skos:Concept;
+        dc:identifier      "ß";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand- en grindfacies (Maas en Rijn, Bocholt)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ô    rdf:type           skos:Concept;
+        dc:identifier      "ô";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal eolisch"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:W3   rdf:type           skos:Concept;
+        dc:identifier      "W3";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie en bedekt met eolische afzettingen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Y4   rdf:type           skos:Concept;
+        dc:identifier      "Y4";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Afwisseling van klei en/of zand met een dunne veenlaag aan het oppervlak en aan de basis het basisveen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Gb   rdf:type           skos:Concept;
+        dc:identifier      "Gb";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Beekbodemgrind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M06  rdf:type           skos:Concept;
+        dc:identifier      "M06";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag en aan de basis het basisveen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:D    rdf:type           skos:Concept;
+        dc:identifier      "D";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan  continentaal eolisch"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Y    rdf:type           skos:Concept;
+        dc:identifier      "Y";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Pre-Saale continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F09  rdf:type           skos:Concept;
+        dc:identifier      "F09";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind tot grindrijk zandig facies - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:n    rdf:type           skos:Concept;
+        dc:identifier      "n";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, niveo-eolisch"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H01  rdf:type           skos:Concept;
+        dc:identifier      "H01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F30  rdf:type           skos:Concept;
+        dc:identifier      "F30";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fining – up cyclus, mogelijks met veen - Eemien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F51  rdf:type           skos:Concept;
+        dc:identifier      "F51";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand, soms grind - Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E09  rdf:type           skos:Concept;
+        dc:identifier      "E09";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Homogeen silt gevolgd door silt met intercalaties van kleiige, venige en/of zandige laagjes - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Q    rdf:type           skos:Concept;
+        dc:identifier      "Q";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kwartair"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES06  rdf:type          skos:Concept;
+        dc:identifier      "ES06";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies, mogelijks veen - Eemien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:f    rdf:type           skos:Concept;
+        dc:identifier      "f";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:K2   rdf:type           skos:Concept;
+        dc:identifier      "K2";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F01  rdf:type           skos:Concept;
+        dc:identifier      "F01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandige facies, mogelijks vegetatieresten - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/¥>
+        rdf:type           skos:Concept;
+        dc:identifier      "¥";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindfacies (Maas en Rijn, Lixhe"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F22  rdf:type           skos:Concept;
+        dc:identifier      "F22";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant silteus facies op dominant zandig facies op dominant silteus facies op dominant zandig facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F43  rdf:type           skos:Concept;
+        dc:identifier      "F43";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand- en grindfacies (Maas en Rijn, Bocholt) - Vroeg-Pleistoceen, post-Jaromillo"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E01  rdf:type           skos:Concept;
+        dc:identifier      "E01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie en bedekt met eolische afzettingen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ON01  rdf:type          skos:Concept;
+        dc:identifier      "ON01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Onbekend - /"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:HW02  rdf:type          skos:Concept;
+        dc:identifier      "HW02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Herwerkte afzettingen - /"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:D1   rdf:type           skos:Concept;
+        dc:identifier      "D1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandige facies op kleiig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F2   rdf:type           skos:Concept;
+        dc:identifier      "F2";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:D01  rdf:type           skos:Concept;
+        dc:identifier      "D01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M11  rdf:type           skos:Concept;
+        dc:identifier      "M11";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F14  rdf:type           skos:Concept;
+        dc:identifier      "F14";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind facies (Maas en Rijn, Mechelen a/d Maas) - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Ç    rdf:type           skos:Concept;
+        dc:identifier      "Ç";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Ondiep Tertiair substraat"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H06  rdf:type           skos:Concept;
+        dc:identifier      "H06";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus tot kleiig facies - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F35  rdf:type           skos:Concept;
+        dc:identifier      "F35";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fining-up sequentie (Schelde) - Holsteinien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/y'>
+        rdf:type           skos:Concept;
+        dc:identifier      "y'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Rb   rdf:type           skos:Concept;
+        dc:identifier      "Rb";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Beekbodemgrind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Y1   rdf:type           skos:Concept;
+        dc:identifier      "Y1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:A    rdf:type           skos:Concept;
+        dc:identifier      "A";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Gt   rdf:type           skos:Concept;
+        dc:identifier      "Gt";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M03  rdf:type           skos:Concept;
+        dc:identifier      "M03";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie zonder veenlagen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES11  rdf:type          skos:Concept;
+        dc:identifier      "ES11";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig complex - Vroeg-Pleistoceen –Tertiair (2)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F06  rdf:type           skos:Concept;
+        dc:identifier      "F06";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies - Tardiglaciaal tot Vroeg-Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:k    rdf:type           skos:Concept;
+        dc:identifier      "k";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F27  rdf:type           skos:Concept;
+        dc:identifier      "F27";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei tot kleiig zand - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:é    rdf:type           skos:Concept;
+        dc:identifier      "é";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig/kleiig - silteus complex"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F48  rdf:type           skos:Concept;
+        dc:identifier      "F48";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindfacies (Maas en Rijn, Simpelveld) - Vroeg-Pleistoceen –Tertiair (4)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:A01  rdf:type           skos:Concept;
+        dc:identifier      "A01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Aangebracht, antropogeen - /"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E06  rdf:type           skos:Concept;
+        dc:identifier      "E06";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V2   rdf:type           skos:Concept;
+        dc:identifier      "V2";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Veen op zandig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:X3   rdf:type           skos:Concept;
+        dc:identifier      "X3";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/$>
+        rdf:type           skos:Concept;
+        dc:identifier      "$";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Tertiair"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:N    rdf:type           skos:Concept;
+        dc:identifier      "N";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, niveo-eolisch"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES03  rdf:type          skos:Concept;
+        dc:identifier      "ES03";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant kleiig facies - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V05  rdf:type           skos:Concept;
+        dc:identifier      "V05";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Venig facies (veen al dan niet met klastische sedimenten) - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:c    rdf:type           skos:Concept;
+        dc:identifier      "c";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Eemiaan continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:x    rdf:type           skos:Concept;
+        dc:identifier      "x";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Saale continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F19  rdf:type           skos:Concept;
+        dc:identifier      "F19";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd fijn klastisch facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:á    rdf:type           skos:Concept;
+        dc:identifier      "á";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei tot kleiig zand"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F40  rdf:type           skos:Concept;
+        dc:identifier      "F40";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind facies (Maas en Rijn, Mopertingen of Lanaken) - Midden-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/j'>
+        rdf:type           skos:Concept;
+        dc:identifier      "j'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:k2   rdf:type           skos:Concept;
+        dc:identifier      "k2";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F    rdf:type           skos:Concept;
+        dc:identifier      "F";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M08  rdf:type           skos:Concept;
+        dc:identifier      "M08";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Afwisseling van klei en/of zand met een dunne veenlaag aan het oppervlak en aan de basis het basisveen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:p    rdf:type           skos:Concept;
+        dc:identifier      "p";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Perimarien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F11  rdf:type           skos:Concept;
+        dc:identifier      "F11";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies, veen en kalktuf mogelijks aanwezig - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H03  rdf:type           skos:Concept;
+        dc:identifier      "H03";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd grofkorrelig facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F32  rdf:type           skos:Concept;
+        dc:identifier      "F32";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies - Saalien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:d1   rdf:type           skos:Concept;
+        dc:identifier      "d1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig facies op zandig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/e'>
+        rdf:type           skos:Concept;
+        dc:identifier      "e'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies, mogelijks veen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:f2   rdf:type           skos:Concept;
+        dc:identifier      "f2";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E11  rdf:type           skos:Concept;
+        dc:identifier      "E11";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies - Saalien en/of Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/f°>
+        rdf:type           skos:Concept;
+        dc:identifier      "f°";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fining-up cyclus (cycli), mogelijks met veen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/F'>
+        rdf:type           skos:Concept;
+        dc:identifier      "F'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:S    rdf:type           skos:Concept;
+        dc:identifier      "S";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Saale afzettingen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES08  rdf:type          skos:Concept;
+        dc:identifier      "ES08";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig/zandig complex - Vroeg-Pleistoceen  - Tertiair (1,2)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:h    rdf:type           skos:Concept;
+        dc:identifier      "h";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F03  rdf:type           skos:Concept;
+        dc:identifier      "F03";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig facies - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/§>
+        rdf:type           skos:Concept;
+        dc:identifier      "§";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies tot grindfacies (Schelde)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F24  rdf:type           skos:Concept;
+        dc:identifier      "F24";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant silteus facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:æ    rdf:type           skos:Concept;
+        dc:identifier      "æ";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Homogene silt en silt met intercalaties van kleiige en zandige laagjes"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F45  rdf:type           skos:Concept;
+        dc:identifier      "F45";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindfacies (Maas en Rijn, Lixhe) - Vroeg-Pleistoceen, pré-Jaromillo"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E03  rdf:type           skos:Concept;
+        dc:identifier      "E03";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/!>
+        rdf:type           skos:Concept;
+        dc:identifier      "!";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Aanvulling"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/ç'>
+        rdf:type           skos:Concept;
+        dc:identifier      "ç'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Herwerkte afzettingen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:D03  rdf:type           skos:Concept;
+        dc:identifier      "D03";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus tot kleiig facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:K    rdf:type           skos:Concept;
+        dc:identifier      "K";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M13  rdf:type           skos:Concept;
+        dc:identifier      "M13";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant kleiig facies - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V02  rdf:type           skos:Concept;
+        dc:identifier      "V02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Veen op kleiig facies - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:u    rdf:type           skos:Concept;
+        dc:identifier      "u";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig/zandig complex (Lid van Rijkevorsel)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F16  rdf:type           skos:Concept;
+        dc:identifier      "F16";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies op dominant silteus facies op dominant zandig facies op dominant silteus facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H08  rdf:type           skos:Concept;
+        dc:identifier      "H08";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silt met intercalaties van kleiige, venige en/of zandige laagjes - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F37  rdf:type           skos:Concept;
+        dc:identifier      "F37";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies - Midden- en/of Laat-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Þ    rdf:type           skos:Concept;
+        dc:identifier      "Þ";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand- en grindfacies (Maas en Rijn, Winterslag)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/V'>
+        rdf:type           skos:Concept;
+        dc:identifier      "V'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Venig complex"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:T02  rdf:type           skos:Concept;
+        dc:identifier      "T02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Pré-Quartaire sedimenten - /"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/p'>
+        rdf:type           skos:Concept;
+        dc:identifier      "p'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies (zandig tot kleiig)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:C    rdf:type           skos:Concept;
+        dc:identifier      "C";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Eemiaan continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Gv   rdf:type           skos:Concept;
+        dc:identifier      "Gv";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Valleibodemgrind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M05  rdf:type           skos:Concept;
+        dc:identifier      "M05";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES13  rdf:type          skos:Concept;
+        dc:identifier      "ES13";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig complex - Plio-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F08  rdf:type           skos:Concept;
+        dc:identifier      "F08";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:X    rdf:type           skos:Concept;
+        dc:identifier      "X";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Saale, continentaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:m    rdf:type           skos:Concept;
+        dc:identifier      "m";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, marien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F29  rdf:type           skos:Concept;
+        dc:identifier      "F29";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus tot kleiig facies, mogelijks met veen - Eemien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Á    rdf:type           skos:Concept;
+        dc:identifier      "Á";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand tot zandleem met mogelijks in het basisgedeelte een alternatie van fijnere en grovere laagjes"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F50  rdf:type           skos:Concept;
+        dc:identifier      "F50";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Herwerkte Rijn- en Maasafzettingen - Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E08  rdf:type           skos:Concept;
+        dc:identifier      "E08";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silt (loess) - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/k'>
+        rdf:type           skos:Concept;
+        dc:identifier      "k'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies, veen en kalftuf mogelijks aanwezig"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:P    rdf:type           skos:Concept;
+        dc:identifier      "P";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandige facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES05  rdf:type          skos:Concept;
+        dc:identifier      "ES05";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig/ kleiig – silteus complex - Eemien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:e    rdf:type           skos:Concept;
+        dc:identifier      "e";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Eemiaan, marien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:K1   rdf:type           skos:Concept;
+        dc:identifier      "K1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:z    rdf:type           skos:Concept;
+        dc:identifier      "z";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "?"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F21  rdf:type           skos:Concept;
+        dc:identifier      "F21";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant silteus facies op dominant zandig facies op dominant silteus facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+colt:quartaireeenheid
+        rdf:type              skos:Collection;
+        dc:identifier         "quartaireeenheid";
+        skos:inScheme         <file:///tmp/RtmpEF6ALB/cs>;
+        skos:mappingRelation  <file:///tmp/RtmpEF6ALB/quartaireeenheid>;
+        skos:member           ct:ES03 , ct:F12 , ct:F25 , ct:V2 , ct:ES11 , ct:F33 , ct:F46 , ct:H03 , ct:F1 , ct:F06 , ct:F19 , ct:X , ct:z , ct:A01 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/c°> , ct:F3 , ct:F21 , ct:o , ct:F42 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/®> , ct:F50 , ct:d1 , ct:v , ct:f2 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/µ> , ct:N , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/j'> , ct:k , ct:é , ct:M07 , ct:E04 , ct:g , ct:D01 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/¦> , ct:a , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/v'> , ct:M03 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/$> , ct:K1 , ct:ß , ct:F , ct:ES08 , ct:c , ct:F38 , ct:H08 , ct:V1 , ct:V03 , ct:X2 , ct:B , ct:ES04 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/y'> , ct:Z3 , ct:F13 , ct:F26 , ct:ES12 , ct:V05 , ct:F34 , ct:F47 , ct:H04 , ct:F2 , <file:///tmp/RtmpEF6ALB/file195c526ef8efe.jsonld> , ct:F07 , ct:Y , ct:Y1 , ct:F01 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/a'> , ct:F22 , ct:f1 , ct:p , ct:F30 , ct:F43 , ct:Rf , ct:F51 , ct:U , ct:w , ct:f3 , ct:k1 , ct:Gk , ct:O , ct:l , ct:Rb , ct:Q , ct:M08 , ct:E05 , ct:K , ct:h , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/k'> , ct:D02 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/§> , ct:M10 , ct:æ , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/H'> , ct:M04 , ct:E01 , ct:K2 , ct:G , ct:Ru , ct:M12 , ct:ES09 , ct:d , ct: , ct:E08 , ct:F39 , ct:HW01 , ct:V04 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/w'> , ct:Gt , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/!> , ct:C , ct:E10 , ct:X3 , ct:ES05 , ct:F14 , ct:F27 , ct:X11 , ct:ES13 , ct:V06 , ct:F35 , ct:F48 , ct:H05 , ct:F08 , ct:Z , ct:W1 , ct:F29 , ct:Y2 , ct:F02 , ct:Ø , ct:ES01 , ct:F10 , ct:F23 , ct:q , ct:F31 , ct:F44 , ct:H01 , ct:F17 , ct:F52 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/f°> , ct:x , ct:k2 , ct:P , ct:m , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/S'> , ct:F40 , ct:R , ct:t , ct:Gh , ct:M09 , ct:E06 , ct:å , ct:T01 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/e'> , ct:i , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/p'> , ct:Gb , ct:D03 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/F'> , ct:M11 , ct:ç , ct:ON01 , ct:M05 , ct:E02 , ct:H , ct:á , ct:M13 , ct:e , ct:E09 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/h'> , ct:Æ , ct:HW02 , ct:M01 , ct:X4 , ct:E11 , ct:D , ct:ES06 , ct:F15 , ct:F28 , ct:F36 , ct:F49 , ct:H06 , ct:F09 , ct:ô , ct:V01 , ct:F03 , ct:ES02 , ct:F11 , ct:F24 , ct:ES10 , ct:F32 , ct:F45 , ct:H02 , ct:Rh , ct:F05 , ct:F18 , ct:y , ct:D1 , ct:F20 , ct:n , ct:F41 , ct:S , ct:u , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/V'> , ct:E07 , ct:M , ct:T02 , ct:j , ct:D04 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/©> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/£> , ct:M06 , ct:E03 , ct:â , ct:M14 , ct:f , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/q'> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/f'> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/¥> , ct:Ç , ct:ÿ , ct:Á , ct:Gv , ct:E12 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/#> , ct:E , ct:Þ , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/x'> , ct:ES07 , ct:F16 , ct:b , ct:M02 , ct:F37 , ct:H07 , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/?> , <https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/ç'> , ct:õ , ct:V02 , ct:W3 , ct:X1 , ct:Y4 , ct:F04 , ct:A;
+        skos:prefLabel        "Collectie van quartaireeenheid."@nl .
+
+ct:F42  rdf:type           skos:Concept;
+        dc:identifier      "F42";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand- en grindfacies (Maas en Rijn, Lommel) - Vroeg-Pleistoceen, post-Jaromillo"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/f'>
+        rdf:type           skos:Concept;
+        dc:identifier      "f'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd fijn klastisch facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:HW01  rdf:type          skos:Concept;
+        dc:identifier      "HW01";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Herwerkte Tertiaire afzettingen - Tertiair en/of Quartair"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F1   rdf:type           skos:Concept;
+        dc:identifier      "F1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Weichseliaan, continentaal, fluviatiel, periglaciaal"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H    rdf:type           skos:Concept;
+        dc:identifier      "H";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Diachrone hellingsafzetting"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M10  rdf:type           skos:Concept;
+        dc:identifier      "M10";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen en aan de basis het basisveen. Mogelijks veen aan het oppervlak - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F13  rdf:type           skos:Concept;
+        dc:identifier      "F13";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies op dominant silteus facies - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/a'>
+        rdf:type           skos:Concept;
+        dc:identifier      "a'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Lichte zandleem tot silt"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:H05  rdf:type           skos:Concept;
+        dc:identifier      "H05";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd facies - Diachroon"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F34  rdf:type           skos:Concept;
+        dc:identifier      "F34";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind facies (Maas en Rijn, Lanklaar) - Saalien tot en met Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Æ    rdf:type           skos:Concept;
+        dc:identifier      "Æ";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zandig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:U    rdf:type           skos:Concept;
+        dc:identifier      "U";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Onbekend"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M02  rdf:type           skos:Concept;
+        dc:identifier      "M02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd klastisch facies, veen, mogelijks kalkgyttja. - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES10  rdf:type          skos:Concept;
+        dc:identifier      "ES10";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig/zandig complex (Lid van Rijkevorsel) - Vroeg-Pleistoceen – Tertiair (1)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F05  rdf:type           skos:Concept;
+        dc:identifier      "F05";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Kleiig tot grindrijk facies (Maas en Rijn, Leut) - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:j    rdf:type           skos:Concept;
+        dc:identifier      "j";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus tot kleiig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/©>
+        rdf:type           skos:Concept;
+        dc:identifier      "©";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fijn zand tot klei"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F26  rdf:type           skos:Concept;
+        dc:identifier      "F26";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindhoudend en grindrijk zand tot grind - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/v'>
+        rdf:type           skos:Concept;
+        dc:identifier      "v'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Venig complex"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F47  rdf:type           skos:Concept;
+        dc:identifier      "F47";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies - Vroeg-Pleistoceen –Tertiair (2)"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E05  rdf:type           skos:Concept;
+        dc:identifier      "E05";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus facies - Laat-Pleniglaciaal (Weichselien) en/of Vroeg-Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V1   rdf:type           skos:Concept;
+        dc:identifier      "V1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Veen op kleiig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:X2   rdf:type           skos:Concept;
+        dc:identifier      "X2";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand met aan de basis het basisveen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Z3   rdf:type           skos:Concept;
+        dc:identifier      "Z3";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Veen en/of organisch gyttja over de gehele sequentie met aan de top een klei- of zandlaag waarvan de dikte kleiner is dan de dikte van de veenlaag"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/#>
+        rdf:type           skos:Concept;
+        dc:identifier      "#";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Herwerkt tertiair"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M    rdf:type           skos:Concept;
+        dc:identifier      "M";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, marien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:ES02  rdf:type          skos:Concept;
+        dc:identifier      "ES02";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandige facies - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Gk   rdf:type           skos:Concept;
+        dc:identifier      "Gk";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:V04  rdf:type           skos:Concept;
+        dc:identifier      "V04";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Veen, kalktuf al dan niet met klastisch materiaal - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:b    rdf:type           skos:Concept;
+        dc:identifier      "b";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, Pleistoceen, continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F18  rdf:type           skos:Concept;
+        dc:identifier      "F18";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Fining-up cyclus (cycli), mogelijks met veen - Weichselien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/q'>
+        rdf:type           skos:Concept;
+        dc:identifier      "q'";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Niet gedifferentieerd"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:w    rdf:type           skos:Concept;
+        dc:identifier      "w";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Dominant zandig facies"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F39  rdf:type           skos:Concept;
+        dc:identifier      "F39";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grind facies (Maas en Rijn, Zutendaal) - Midden-Pleistoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:õ    rdf:type           skos:Concept;
+        dc:identifier      "õ";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, Pleistoceen, continentaal eolisch"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Rf   rdf:type           skos:Concept;
+        dc:identifier      "Rf";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Grindrijk zand - puinwaaier"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:k1   rdf:type           skos:Concept;
+        dc:identifier      "k1";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen, continentaal alluvium"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:E    rdf:type           skos:Concept;
+        dc:identifier      "E";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Eemiaan, marien"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:M07  rdf:type           skos:Concept;
+        dc:identifier      "M07";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen en aan de basis het basisveen - Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:Z    rdf:type           skos:Concept;
+        dc:identifier      "Z";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:o    rdf:type           skos:Concept;
+        dc:identifier      "o";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Holoceen - Pleistoceen overgang"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+ct:F10  rdf:type           skos:Concept;
+        dc:identifier      "F10";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Silteus tot kleiig facies, veen en kalktuf mogelijks aanwezig - Tardiglaciaal en/of Holoceen"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .
+
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/®>
+        rdf:type           skos:Concept;
+        dc:identifier      "®";
+        skos:inScheme      cs:quartaireeenheid;
+        skos:prefLabel     "Zand, soms grind"@nl;
+        skos:topConceptOf  cs:quartaireeenheid .

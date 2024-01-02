@@ -1,0 +1,5103 @@
+{
+    "@graph": [
+        {
+            "@id": "ct:H02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindrijk facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "cs:quartaireeenheid",
+            "skos:hasTopConcept": [
+                {
+                    "@id": "ct:E07"
+                },
+                {
+                    "@id": "ct:c°"
+                },
+                {
+                    "@id": "ct:k'"
+                },
+                {
+                    "@id": "ct:F04"
+                },
+                {
+                    "@id": "ct:Gb"
+                },
+                {
+                    "@id": "ct:F07"
+                },
+                {
+                    "@id": "ct:ÿ"
+                },
+                {
+                    "@id": "ct:HW01"
+                },
+                {
+                    "@id": "ct:M07"
+                },
+                {
+                    "@id": "ct:h"
+                },
+                {
+                    "@id": "ct:F18"
+                },
+                {
+                    "@id": "ct:Rf"
+                },
+                {
+                    "@id": "ct:F46"
+                },
+                {
+                    "@id": "ct:§"
+                },
+                {
+                    "@id": "ct:F10"
+                },
+                {
+                    "@id": "ct:k1"
+                },
+                {
+                    "@id": "ct:æ"
+                },
+                {
+                    "@id": "ct:D"
+                },
+                {
+                    "@id": "ct:F31"
+                },
+                {
+                    "@id": "ct:F21"
+                },
+                {
+                    "@id": "ct:x'"
+                },
+                {
+                    "@id": "ct:M13"
+                },
+                {
+                    "@id": "ct:w'"
+                },
+                {
+                    "@id": "ct:ES06"
+                },
+                {
+                    "@id": "ct:H03"
+                },
+                {
+                    "@id": "ct:P"
+                },
+                {
+                    "@id": "ct:S"
+                },
+                {
+                    "@id": "ct:á"
+                },
+                {
+                    "@id": "ct:X1"
+                },
+                {
+                    "@id": "ct:W1"
+                },
+                {
+                    "@id": "ct:d1"
+                },
+                {
+                    "@id": "ct:F28"
+                },
+                {
+                    "@id": "ct:h'"
+                },
+                {
+                    "@id": "ct:k"
+                },
+                {
+                    "@id": "ct:f2"
+                },
+                {
+                    "@id": "ct:D03"
+                },
+                {
+                    "@id": "ct:F49"
+                },
+                {
+                    "@id": "ct:F13"
+                },
+                {
+                    "@id": "ct:ç'"
+                },
+                {
+                    "@id": "ct:V02"
+                },
+                {
+                    "@id": "ct:Ru"
+                },
+                {
+                    "@id": "ct:F44"
+                },
+                {
+                    "@id": "ct:F34"
+                },
+                {
+                    "@id": "ct:G"
+                },
+                {
+                    "@id": "ct:Ø"
+                },
+                {
+                    "@id": "ct:E11"
+                },
+                {
+                    "@id": "ct:E01"
+                },
+                {
+                    "@id": "ct:ES09"
+                },
+                {
+                    "@id": "ct:V'"
+                },
+                {
+                    "@id": "ct:#"
+                },
+                {
+                    "@id": "ct:M11"
+                },
+                {
+                    "@id": "ct:M01"
+                },
+                {
+                    "@id": "ct:v"
+                },
+                {
+                    "@id": "ct:b"
+                },
+                {
+                    "@id": "ct:F50"
+                },
+                {
+                    "@id": "ct:ES04"
+                },
+                {
+                    "@id": "ct:X4"
+                },
+                {
+                    "@id": "ct:H01"
+                },
+                {
+                    "@id": "ct:Gv"
+                },
+                {
+                    "@id": "ct:n"
+                },
+                {
+                    "@id": "ct:F'"
+                },
+                {
+                    "@id": "ct:F08"
+                },
+                {
+                    "@id": "https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/"
+                },
+                {
+                    "@id": "ct:V05"
+                },
+                {
+                    "@id": "ct:ES10"
+                },
+                {
+                    "@id": "ct:F3"
+                },
+                {
+                    "@id": "ct:HW02"
+                },
+                {
+                    "@id": "ct:F19"
+                },
+                {
+                    "@id": "ct:i"
+                },
+                {
+                    "@id": "ct:F47"
+                },
+                {
+                    "@id": "ct:F37"
+                },
+                {
+                    "@id": "ct:D01"
+                },
+                {
+                    "@id": "ct:E04"
+                },
+                {
+                    "@id": "ct:F11"
+                },
+                {
+                    "@id": "ct:F01"
+                },
+                {
+                    "@id": "ct:Y"
+                },
+                {
+                    "@id": "ct:k2"
+                },
+                {
+                    "@id": "ct:A01"
+                },
+                {
+                    "@id": "ct:ç"
+                },
+                {
+                    "@id": "ct:F32"
+                },
+                {
+                    "@id": "ct:F22"
+                },
+                {
+                    "@id": "ct:M14"
+                },
+                {
+                    "@id": "ct:M04"
+                },
+                {
+                    "@id": "ct:q'"
+                },
+                {
+                    "@id": "ct:ES07"
+                },
+                {
+                    "@id": "ct:K1"
+                },
+                {
+                    "@id": "ct:H04"
+                },
+                {
+                    "@id": "ct:V1"
+                },
+                {
+                    "@id": "ct:t"
+                },
+                {
+                    "@id": "ct:f'"
+                },
+                {
+                    "@id": "ct:e'"
+                },
+                {
+                    "@id": "ct:A"
+                },
+                {
+                    "@id": "ct:ES13"
+                },
+                {
+                    "@id": "ct:Z3"
+                },
+                {
+                    "@id": "ct:l"
+                },
+                {
+                    "@id": "ct:M"
+                },
+                {
+                    "@id": "ct:f3"
+                },
+                {
+                    "@id": "ct:D04"
+                },
+                {
+                    "@id": "ct:Þ"
+                },
+                {
+                    "@id": "ct:F14"
+                },
+                {
+                    "@id": "ct:V03"
+                },
+                {
+                    "@id": "ct:F1"
+                },
+                {
+                    "@id": "ct:H"
+                },
+                {
+                    "@id": "ct:F35"
+                },
+                {
+                    "@id": "ct:F25"
+                },
+                {
+                    "@id": "ct:S'"
+                },
+                {
+                    "@id": "ct:E02"
+                },
+                {
+                    "@id": "ct:H07"
+                },
+                {
+                    "@id": "ct:å"
+                },
+                {
+                    "@id": "ct:Æ"
+                },
+                {
+                    "@id": "file:///tmp/RtmpEF6ALB/file195c526ef8efe.jsonld"
+                },
+                {
+                    "@id": "ct:F20"
+                },
+                {
+                    "@id": "ct:M02"
+                },
+                {
+                    "@id": "ct:w"
+                },
+                {
+                    "@id": "ct:F51"
+                },
+                {
+                    "@id": "ct:F41"
+                },
+                {
+                    "@id": "ct:H02"
+                },
+                {
+                    "@id": "ct:c"
+                },
+                {
+                    "@id": "ct:o"
+                },
+                {
+                    "@id": "ct:?"
+                },
+                {
+                    "@id": "ct:®"
+                },
+                {
+                    "@id": "ct:V06"
+                },
+                {
+                    "@id": "ct:ES11"
+                },
+                {
+                    "@id": "ct:ES01"
+                },
+                {
+                    "@id": "ct:Y1"
+                },
+                {
+                    "@id": "ct:T01"
+                },
+                {
+                    "@id": "ct:f1"
+                },
+                {
+                    "@id": "ct:F38"
+                },
+                {
+                    "@id": "ct:D02"
+                },
+                {
+                    "@id": "ct:K"
+                },
+                {
+                    "@id": "ct:F48"
+                },
+                {
+                    "@id": "ct:E05"
+                },
+                {
+                    "@id": "ct:E08"
+                },
+                {
+                    "@id": "ct:F12"
+                },
+                {
+                    "@id": "ct:F02"
+                },
+                {
+                    "@id": "ct:F05"
+                },
+                {
+                    "@id": "ct:Z"
+                },
+                {
+                    "@id": "ct:p'"
+                },
+                {
+                    "@id": "ct:F23"
+                },
+                {
+                    "@id": "ct:M05"
+                },
+                {
+                    "@id": "ct:z"
+                },
+                {
+                    "@id": "ct:ES08"
+                },
+                {
+                    "@id": "ct:ô"
+                },
+                {
+                    "@id": "ct:H05"
+                },
+                {
+                    "@id": "ct:K2"
+                },
+                {
+                    "@id": "ct:f"
+                },
+                {
+                    "@id": "ct:¥"
+                },
+                {
+                    "@id": "ct:ON01"
+                },
+                {
+                    "@id": "ct:u"
+                },
+                {
+                    "@id": "ct:a"
+                },
+                {
+                    "@id": "ct:B"
+                },
+                {
+                    "@id": "ct:a'"
+                },
+                {
+                    "@id": "ct:W3"
+                },
+                {
+                    "@id": "ct:Y4"
+                },
+                {
+                    "@id": "ct:m"
+                },
+                {
+                    "@id": "ct:N"
+                },
+                {
+                    "@id": "ct:j'"
+                },
+                {
+                    "@id": "ct:ß"
+                },
+                {
+                    "@id": "ct:D1"
+                },
+                {
+                    "@id": "ct:Q"
+                },
+                {
+                    "@id": "ct:H'"
+                },
+                {
+                    "@id": "ct:F15"
+                },
+                {
+                    "@id": "ct:V04"
+                },
+                {
+                    "@id": "ct:F2"
+                },
+                {
+                    "@id": "ct:F36"
+                },
+                {
+                    "@id": "ct:F26"
+                },
+                {
+                    "@id": "ct:F29"
+                },
+                {
+                    "@id": "ct:E03"
+                },
+                {
+                    "@id": "ct:M08"
+                },
+                {
+                    "@id": "ct:H08"
+                },
+                {
+                    "@id": "ct:X"
+                },
+                {
+                    "@id": "ct:Ç"
+                },
+                {
+                    "@id": "ct:v'"
+                },
+                {
+                    "@id": "ct:x"
+                },
+                {
+                    "@id": "ct:d"
+                },
+                {
+                    "@id": "ct:E"
+                },
+                {
+                    "@id": "ct:Rb"
+                },
+                {
+                    "@id": "ct:F42"
+                },
+                {
+                    "@id": "ct:F52"
+                },
+                {
+                    "@id": "ct:M03"
+                },
+                {
+                    "@id": "ct:£"
+                },
+                {
+                    "@id": "ct:p"
+                },
+                {
+                    "@id": "ct:â"
+                },
+                {
+                    "@id": "ct:Gh"
+                },
+                {
+                    "@id": "ct:!"
+                },
+                {
+                    "@id": "ct:ES12"
+                },
+                {
+                    "@id": "ct:ES02"
+                },
+                {
+                    "@id": "ct:Y2"
+                },
+                {
+                    "@id": "ct:X2"
+                },
+                {
+                    "@id": "ct:T02"
+                },
+                {
+                    "@id": "ct:Gt"
+                },
+                {
+                    "@id": "ct:F39"
+                },
+                {
+                    "@id": "ct:E06"
+                },
+                {
+                    "@id": "ct:E09"
+                },
+                {
+                    "@id": "ct:F03"
+                },
+                {
+                    "@id": "ct:X11"
+                },
+                {
+                    "@id": "ct:F06"
+                },
+                {
+                    "@id": "ct:é"
+                },
+                {
+                    "@id": "ct:f°"
+                },
+                {
+                    "@id": "ct:F24"
+                },
+                {
+                    "@id": "ct:F17"
+                },
+                {
+                    "@id": "ct:M06"
+                },
+                {
+                    "@id": "ct:g"
+                },
+                {
+                    "@id": "ct:õ"
+                },
+                {
+                    "@id": "ct:F45"
+                },
+                {
+                    "@id": "ct:H06"
+                },
+                {
+                    "@id": "ct:E12"
+                },
+                {
+                    "@id": "ct:¦"
+                },
+                {
+                    "@id": "ct:Gk"
+                },
+                {
+                    "@id": "ct:C"
+                },
+                {
+                    "@id": "ct:$"
+                },
+                {
+                    "@id": "ct:F30"
+                },
+                {
+                    "@id": "ct:F40"
+                },
+                {
+                    "@id": "ct:µ"
+                },
+                {
+                    "@id": "ct:M12"
+                },
+                {
+                    "@id": "ct:ES05"
+                },
+                {
+                    "@id": "ct:O"
+                },
+                {
+                    "@id": "ct:R"
+                },
+                {
+                    "@id": "ct:y'"
+                },
+                {
+                    "@id": "ct:Á"
+                },
+                {
+                    "@id": "ct:F16"
+                },
+                {
+                    "@id": "ct:F09"
+                },
+                {
+                    "@id": "ct:F27"
+                },
+                {
+                    "@id": "ct:M09"
+                },
+                {
+                    "@id": "ct:j"
+                },
+                {
+                    "@id": "ct:Rh"
+                },
+                {
+                    "@id": "ct:©"
+                },
+                {
+                    "@id": "ct:V01"
+                },
+                {
+                    "@id": "ct:y"
+                },
+                {
+                    "@id": "ct:e"
+                },
+                {
+                    "@id": "ct:F"
+                },
+                {
+                    "@id": "ct:F33"
+                },
+                {
+                    "@id": "ct:F43"
+                },
+                {
+                    "@id": "ct:E10"
+                },
+                {
+                    "@id": "ct:q"
+                },
+                {
+                    "@id": "ct:U"
+                },
+                {
+                    "@id": "ct:V2"
+                },
+                {
+                    "@id": "ct:M10"
+                },
+                {
+                    "@id": "ct:ES03"
+                },
+                {
+                    "@id": "ct:X3"
+                }
+            ]
+        },
+        {
+            "@id": "ct:Ø",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind facies (Maas en Rijn, Lanklaar)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Ø",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F31",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies - Saalien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F31",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F52",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fijn zand tot klei - Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F52",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:f1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "f1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E10",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Lichte zandleem tot silt - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E10",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd grofkorrelig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:R",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "R",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:g",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, niveo-eolisch, fluviatiel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "g",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES07",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig/kleiig complex - Midden-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES07",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies op kleiig facies - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:¦",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig tot grindrijk facies (Maas en Rijn, Leut)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "¦",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F23",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F23",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:å",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silt met intercalaties van kleiige, venige en/of zandige laagjes"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "å",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F44",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand- en grindfacies (Maas en Rijn, Winterslag) - Vroeg-Pleistoceen, post-Jaromillo"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F44",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "file:///tmp/RtmpEF6ALB/file195c526ef8efe.jsonld",
+            "skos:prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Grind tot grindrijk zandig facies"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Grind (Maas en Rijn, Eisden-Lanklaar)"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Grind facies (Maas en Rijn, Zutendaal)"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Grindhoudend en grindrijk zand tot grind"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Grindrijk facies"
+                }
+            ],
+            "dc:identifier": [
+                "^F",
+                "^",
+                "^W",
+                "^H",
+                "^Q",
+                "^K",
+                "<<"
+            ],
+            "@type": "skos:Concept",
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            }
+        },
+        {
+            "@id": "ct:c°",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fining-up cyclus, mogelijks met veen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "c°",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie en bedekt met een veenlaag direct onder de eolische afzettingen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F3",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F3",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:D02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindrijk facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "D02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Gh",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Hellingsgrind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Gh",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:t",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig/zandig complex (Lid van Turnhout)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "t",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M12",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M12",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Venig complex - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F15",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies op dominant silteus facies op dominant zandig facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F15",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H07",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H07",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F36",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindrijk facies - Midden- en/of Laat-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F36",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:w'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "w'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:W1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over gehele sequentie en bedekt met eolische afzettingen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "W1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Y2",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen en aan de basis het basisveen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Y2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:T01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Ondiep Tertiair substraat - Quartair  en Tertiair"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "T01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:B",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, Pleistoceen continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "B",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M04",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand met aan de basis het basisveen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M04",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:l",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "l",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES12",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig complex - Vroeg-Pleistoceen –Tertiair (2)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES12",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F07",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Lemig zandfacies tot kleiig facies - Tardiglaciaal tot  Vroeg-Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F07",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F28",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies - Eemien en/of        Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F28",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ÿ",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig complex"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ÿ",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F49",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies tot grindfacies (Schelde) - Vroeg- en/of Midden-Pleistoceen – Tertiair (3)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F49",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:S'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "S'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E07",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand tot zandleem met mogelijks in het basisgedeelte een alternatie van fijnere en grovere laagjes - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E07",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:k'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies, veen en kalftuf mogelijks aanwezig"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "k'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F04",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig facies op zandig facies - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F04",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Gb",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Beekbodemgrind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Gb",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:HW01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Herwerkte Tertiaire afzettingen - Tertiair en/of Quartair"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "HW01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M07",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen en aan de basis het basisveen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M07",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:h",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "h",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F18",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fining-up cyclus (cycli), mogelijks met veen - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F18",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Rf",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindrijk zand - puinwaaier"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Rf",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F46",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies met bodemhorizonten en veenlagen (Lid van Beerse) - Vroeg-Pleistoceen – Tertiair (1)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F46",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:§",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies tot grindfacies (Schelde)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "§",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F10",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus tot kleiig facies, veen en kalktuf mogelijks aanwezig - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F10",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:k1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "k1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:æ",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Homogene silt en silt met intercalaties van kleiige en zandige laagjes"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "æ",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:D",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan  continentaal eolisch"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "D",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F21",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant silteus facies op dominant zandig facies op dominant silteus facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F21",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:x'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies met bodemhorizonten en veenlagen (Lid van Beerse)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "x'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M13",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant kleiig facies - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M13",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES06",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies, mogelijks veen - Eemien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES06",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H03",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd grofkorrelig facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H03",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:P",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandige facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "P",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:S",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Saale afzettingen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "S",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:á",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei tot kleiig zand"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "á",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:X1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie zonder veenlagen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "X1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:d1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig facies op zandig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "d1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:h'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "h'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:k",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "k",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:f2",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "f2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:D03",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus tot kleiig facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "D03",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F13",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies op dominant silteus facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F13",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ç'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Herwerkte afzettingen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ç'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Veen op kleiig facies - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Ru",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Ru",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F34",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind facies (Maas en Rijn, Lanklaar) - Saalien tot en met Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F34",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:G",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, niveo-eolisch, fluviatiel"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "G",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E11",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies - Saalien en/of Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E11",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie en bedekt met eolische afzettingen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES09",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig/zandig complex (Lid van Turnhout) - Vroeg- Pleistoceen – Tertiair (1)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES09",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Venig complex"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:#",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Herwerkt tertiair"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "#",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M11",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M11",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand , geulopvulling over gehele sequentie - Laat-Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:v",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "v",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:b",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, Pleistoceen, continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "b",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F50",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Herwerkte Rijn- en Maasafzettingen - Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F50",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES04",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies, mogelijks schelprijk - Eemien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES04",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:X4",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag en aan de basis het basisveen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "X4",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Gv",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Valleibodemgrind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Gv",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:n",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, niveo-eolisch"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "n",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F08",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F08",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fining-up sequentie (Schelde)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "]",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V05",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Venig facies (veen al dan niet met klastische sedimenten) - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V05",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES10",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig/zandig complex (Lid van Rijkevorsel) - Vroeg-Pleistoceen – Tertiair (1)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES10",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:HW02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Herwerkte afzettingen - /"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "HW02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F19",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd fijn klastisch facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F19",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:i",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig/kleiig complex"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "i",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F47",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies - Vroeg-Pleistoceen –Tertiair (2)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F47",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F37",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies - Midden- en/of Laat-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F37",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:D01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "D01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E04",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies - Laat-Pleniglaciaal (Weichselien) en/of Vroeg-Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E04",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F11",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies, veen en kalktuf mogelijks aanwezig - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F11",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandige facies, mogelijks vegetatieresten - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Y",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Pre-Saale continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Y",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:k2",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "k2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:A01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Aangebracht, antropogeen - /"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "A01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ç",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Herwerkte Tertiaire afzettingen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ç",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F32",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies - Saalien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F32",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F22",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant silteus facies op dominant zandig facies op dominant silteus facies op dominant zandig facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F22",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M14",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant kleiig facies - Eemien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M14",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:q'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "q'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:K1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "K1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H04",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus tot kleiig facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H04",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Veen op kleiig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:f'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd fijn klastisch facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "f'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:e'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies, mogelijks veen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "e'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:A",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "A",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES13",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig complex - Plio-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES13",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Z3",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Veen en/of organisch gyttja over de gehele sequentie met aan de top een klei- of zandlaag waarvan de dikte kleiner is dan de dikte van de veenlaag"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Z3",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, marien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:f3",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "f3",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:D04",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "D04",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Þ",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand- en grindfacies (Maas en Rijn, Winterslag)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Þ",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F14",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind facies (Maas en Rijn, Mechelen a/d Maas) - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F14",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V03",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Veen op zandig facies - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V03",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Diachrone hellingsafzetting"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F35",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fining-up sequentie (Schelde) - Holsteinien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F35",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F25",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F25",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Æ",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Æ",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F20",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant silteus facies op dominant zandig facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F20",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd klastisch facies, veen, mogelijks kalkgyttja. - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:w",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "w",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F51",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand, soms grind - Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F51",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F41",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig complex met venige-humeuze en kleiige-silteuze lagen - Vroeg-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F41",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:c",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Eemiaan continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "c",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:o",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen - Pleistoceen overgang"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "o",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:?",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig tot grindrijk facies (Maas en Rijn, Leut)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "?",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:®",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand, soms grind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "®",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V06",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Venig complex - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V06",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES11",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig complex - Vroeg-Pleistoceen –Tertiair (2)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES11",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies (zandig tot kleiig) - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Y1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Y1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F38",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies - Midden- en/of Laat-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F38",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:K",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "K",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F48",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindfacies (Maas en Rijn, Simpelveld) - Vroeg-Pleistoceen –Tertiair (4)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F48",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E05",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus facies - Laat-Pleniglaciaal (Weichselien) en/of Vroeg-Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E05",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E08",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silt (loess) - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E08",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F12",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant grind, zand (Maas en Rijn, Geistingen) - Laat-Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F12",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F05",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig tot grindrijk facies (Maas en Rijn, Leut) - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F05",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Z",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Z",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:p'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies (zandig tot kleiig)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "p'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M05",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M05",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:z",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "?"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "z",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES08",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig/zandig complex - Vroeg-Pleistoceen  - Tertiair (1,2)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES08",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ô",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal eolisch"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ô",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H05",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies - Diachroon"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H05",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:K2",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, continentaal alluvium"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "K2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:f",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "f",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:¥",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindfacies (Maas en Rijn, Lixhe"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "¥",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ON01",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Onbekend - /"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ON01",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:u",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig/zandig complex (Lid van Rijkevorsel)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "u",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:a",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, hellingsafzettingen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "a",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:a'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Lichte zandleem tot silt"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "a'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:W3",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie en bedekt met eolische afzettingen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "W3",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Y4",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Afwisseling van klei en/of zand met een dunne veenlaag aan het oppervlak en aan de basis het basisveen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Y4",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:m",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, marien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "m",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:N",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, niveo-eolisch"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "N",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:j'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "j'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ß",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand- en grindfacies (Maas en Rijn, Bocholt)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ß",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:D1",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandige facies op kleiig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "D1",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Q",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kwartair"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Q",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V04",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Veen, kalktuf al dan niet met klastisch materiaal - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V04",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F2",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F26",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindhoudend en grindrijk zand tot grind - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F26",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F29",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus tot kleiig facies, mogelijks met veen - Eemien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F29",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E03",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E03",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M08",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Afwisseling van klei en/of zand met een dunne veenlaag aan het oppervlak en aan de basis het basisveen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M08",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H08",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silt met intercalaties van kleiige, venige en/of zandige laagjes - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H08",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:X",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Saale, continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "X",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Ç",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Ondiep Tertiair substraat"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Ç",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:v'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Venig complex"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "v'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:x",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Saale continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "x",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:d",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, eolisch"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "d",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Eemiaan, marien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Rb",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Beekbodemgrind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Rb",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F42",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand- en grindfacies (Maas en Rijn, Lommel) - Vroeg-Pleistoceen, post-Jaromillo"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F42",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M03",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie zonder veenlagen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M03",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:£",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand- en grindfacies (Maas en Rijn, Lommel)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "£",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:p",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Perimarien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "p",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:â",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Homogeen silt gevolgd door silt met intercalaties van kleiige, venige en/of zandige laagjes"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "â",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:!",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Aanvulling"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "!",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandige facies - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:X2",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand met aan de basis het basisveen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "X2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:T02",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Pré-Quartaire sedimenten - /"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "T02",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Gt",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Gt",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F39",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind facies (Maas en Rijn, Zutendaal) - Midden-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F39",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E06",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E06",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E09",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Homogeen silt gevolgd door silt met intercalaties van kleiige, venige en/of zandige laagjes - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E09",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F03",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Kleiig facies - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F03",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:X11",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand, geulopvulling over gehele sequentie"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "X11",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F06",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig facies - Tardiglaciaal tot Vroeg-Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F06",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:é",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig/kleiig - silteus complex"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "é",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:f°",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fining-up cyclus (cycli), mogelijks met veen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "f°",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F24",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant silteus facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F24",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F17",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant silteus facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F17",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M06",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag en aan de basis het basisveen - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M06",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:õ",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Holoceen, Pleistoceen, continentaal eolisch"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "õ",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F45",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grindfacies (Maas en Rijn, Lixhe) - Vroeg-Pleistoceen, pré-Jaromillo"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F45",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H06",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus tot kleiig facies - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "H06",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E12",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Homogene silt en silt met intercalaties van kleiige en zandige laagjes - Saalien en/of Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "E12",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Gk",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Gk",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:C",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Eemiaan continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "C",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:$",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Tertiair"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "$",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F30",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fining – up cyclus, mogelijks met veen - Eemien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F30",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F40",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind facies (Maas en Rijn, Mopertingen of Lanaken) - Midden-Pleistoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F40",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:µ",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Complex van Melle"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "µ",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES05",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zandig/ kleiig – silteus complex - Eemien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES05",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:O",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Niet gedifferentieerd klastisch facies, veen, mogelijks kalkgyttja"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "O",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:y'",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "y'",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Á",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand tot zandleem met mogelijks in het basisgedeelte een alternatie van fijnere en grovere laagjes"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Á",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F16",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant zandig facies op dominant silteus facies op dominant zandig facies op dominant silteus facies - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F16",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F09",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind tot grindrijk zandig facies - Tardiglaciaal en/of Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F09",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F27",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei tot kleiig zand - Weichselien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F27",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M09",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Veen en/of organisch gyttja over de gehele sequentie met aan de top een klei- of zandlaag waarvan de dikte kleiner is dan de dikte van de veenlaag - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M09",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:j",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus tot kleiig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "j",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Rh",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Hellingsgrind"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "Rh",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:©",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Fijn zand tot klei"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "©",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:y",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Pré-Saaliaan continentaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "y",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:e",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Eemiaan, marien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "e",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Weichseliaan, continentaal, fluviatiel, periglaciaal"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F33",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Grind (Maas en Rijn, Eisden-Lanklaar) - Saalien"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F33",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F43",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Zand- en grindfacies (Maas en Rijn, Bocholt) - Vroeg-Pleistoceen, post-Jaromillo"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "F43",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:q",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Silteus tot kleiig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "q",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:U",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Onbekend"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "U",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V2",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Veen op zandig facies"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "V2",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M10",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand met intercalaties van één of meerdere verlandingsvenen en aan de basis het basisveen. Mogelijks veen aan het oppervlak - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "M10",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:ES03",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Dominant kleiig facies - Holoceen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "ES03",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:X3",
+            "skos:topConceptOf": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Klei en/of zand over de gehele sequentie met aan het huidige oppervlak een dunne veenlaag"
+            },
+            "skos:inScheme": {
+                "@id": "cs:quartaireeenheid"
+            },
+            "dc:identifier": "X3",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "colt:quartaireeenheid",
+            "skos:member": [
+                {
+                    "@id": "ct:ES03"
+                },
+                {
+                    "@id": "ct:F12"
+                },
+                {
+                    "@id": "ct:F25"
+                },
+                {
+                    "@id": "ct:V2"
+                },
+                {
+                    "@id": "ct:ES11"
+                },
+                {
+                    "@id": "ct:F33"
+                },
+                {
+                    "@id": "ct:H03"
+                },
+                {
+                    "@id": "ct:F46"
+                },
+                {
+                    "@id": "ct:F06"
+                },
+                {
+                    "@id": "ct:F1"
+                },
+                {
+                    "@id": "ct:F19"
+                },
+                {
+                    "@id": "ct:X"
+                },
+                {
+                    "@id": "ct:z"
+                },
+                {
+                    "@id": "ct:A01"
+                },
+                {
+                    "@id": "ct:c°"
+                },
+                {
+                    "@id": "ct:F3"
+                },
+                {
+                    "@id": "ct:F21"
+                },
+                {
+                    "@id": "ct:o"
+                },
+                {
+                    "@id": "ct:F42"
+                },
+                {
+                    "@id": "ct:®"
+                },
+                {
+                    "@id": "ct:F50"
+                },
+                {
+                    "@id": "ct:d1"
+                },
+                {
+                    "@id": "ct:v"
+                },
+                {
+                    "@id": "ct:f2"
+                },
+                {
+                    "@id": "ct:µ"
+                },
+                {
+                    "@id": "ct:N"
+                },
+                {
+                    "@id": "ct:j'"
+                },
+                {
+                    "@id": "ct:k"
+                },
+                {
+                    "@id": "ct:é"
+                },
+                {
+                    "@id": "ct:M07"
+                },
+                {
+                    "@id": "ct:E04"
+                },
+                {
+                    "@id": "ct:g"
+                },
+                {
+                    "@id": "ct:D01"
+                },
+                {
+                    "@id": "ct:¦"
+                },
+                {
+                    "@id": "ct:a"
+                },
+                {
+                    "@id": "ct:M03"
+                },
+                {
+                    "@id": "ct:v'"
+                },
+                {
+                    "@id": "ct:$"
+                },
+                {
+                    "@id": "ct:K1"
+                },
+                {
+                    "@id": "ct:ß"
+                },
+                {
+                    "@id": "ct:F"
+                },
+                {
+                    "@id": "ct:ES08"
+                },
+                {
+                    "@id": "ct:c"
+                },
+                {
+                    "@id": "ct:F38"
+                },
+                {
+                    "@id": "ct:H08"
+                },
+                {
+                    "@id": "ct:V1"
+                },
+                {
+                    "@id": "ct:V03"
+                },
+                {
+                    "@id": "ct:X2"
+                },
+                {
+                    "@id": "ct:B"
+                },
+                {
+                    "@id": "ct:ES04"
+                },
+                {
+                    "@id": "ct:F13"
+                },
+                {
+                    "@id": "ct:y'"
+                },
+                {
+                    "@id": "ct:F26"
+                },
+                {
+                    "@id": "ct:V05"
+                },
+                {
+                    "@id": "ct:ES12"
+                },
+                {
+                    "@id": "ct:Z3"
+                },
+                {
+                    "@id": "ct:H04"
+                },
+                {
+                    "@id": "ct:F47"
+                },
+                {
+                    "@id": "ct:F34"
+                },
+                {
+                    "@id": "ct:F2"
+                },
+                {
+                    "@id": "file:///tmp/RtmpEF6ALB/file195c526ef8efe.jsonld"
+                },
+                {
+                    "@id": "ct:F07"
+                },
+                {
+                    "@id": "ct:Y"
+                },
+                {
+                    "@id": "ct:Y1"
+                },
+                {
+                    "@id": "ct:F01"
+                },
+                {
+                    "@id": "ct:F22"
+                },
+                {
+                    "@id": "ct:a'"
+                },
+                {
+                    "@id": "ct:f1"
+                },
+                {
+                    "@id": "ct:p"
+                },
+                {
+                    "@id": "ct:F30"
+                },
+                {
+                    "@id": "ct:F43"
+                },
+                {
+                    "@id": "ct:Rf"
+                },
+                {
+                    "@id": "ct:F51"
+                },
+                {
+                    "@id": "ct:U"
+                },
+                {
+                    "@id": "ct:w"
+                },
+                {
+                    "@id": "ct:f3"
+                },
+                {
+                    "@id": "ct:k1"
+                },
+                {
+                    "@id": "ct:Gk"
+                },
+                {
+                    "@id": "ct:O"
+                },
+                {
+                    "@id": "ct:l"
+                },
+                {
+                    "@id": "ct:Rb"
+                },
+                {
+                    "@id": "ct:Q"
+                },
+                {
+                    "@id": "ct:M08"
+                },
+                {
+                    "@id": "ct:E05"
+                },
+                {
+                    "@id": "ct:K"
+                },
+                {
+                    "@id": "ct:h"
+                },
+                {
+                    "@id": "ct:k'"
+                },
+                {
+                    "@id": "ct:D02"
+                },
+                {
+                    "@id": "ct:§"
+                },
+                {
+                    "@id": "ct:M10"
+                },
+                {
+                    "@id": "ct:æ"
+                },
+                {
+                    "@id": "ct:H'"
+                },
+                {
+                    "@id": "ct:M04"
+                },
+                {
+                    "@id": "ct:E01"
+                },
+                {
+                    "@id": "ct:K2"
+                },
+                {
+                    "@id": "ct:G"
+                },
+                {
+                    "@id": "ct:M12"
+                },
+                {
+                    "@id": "ct:Ru"
+                },
+                {
+                    "@id": "ct:ES09"
+                },
+                {
+                    "@id": "ct:d"
+                },
+                {
+                    "@id": "https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/"
+                },
+                {
+                    "@id": "ct:E08"
+                },
+                {
+                    "@id": "ct:F39"
+                },
+                {
+                    "@id": "ct:HW01"
+                },
+                {
+                    "@id": "ct:V04"
+                },
+                {
+                    "@id": "ct:w'"
+                },
+                {
+                    "@id": "ct:Gt"
+                },
+                {
+                    "@id": "ct:!"
+                },
+                {
+                    "@id": "ct:C"
+                },
+                {
+                    "@id": "ct:E10"
+                },
+                {
+                    "@id": "ct:X3"
+                },
+                {
+                    "@id": "ct:ES05"
+                },
+                {
+                    "@id": "ct:F14"
+                },
+                {
+                    "@id": "ct:F27"
+                },
+                {
+                    "@id": "ct:V06"
+                },
+                {
+                    "@id": "ct:ES13"
+                },
+                {
+                    "@id": "ct:X11"
+                },
+                {
+                    "@id": "ct:F35"
+                },
+                {
+                    "@id": "ct:F48"
+                },
+                {
+                    "@id": "ct:H05"
+                },
+                {
+                    "@id": "ct:F08"
+                },
+                {
+                    "@id": "ct:Z"
+                },
+                {
+                    "@id": "ct:F29"
+                },
+                {
+                    "@id": "ct:W1"
+                },
+                {
+                    "@id": "ct:Y2"
+                },
+                {
+                    "@id": "ct:F02"
+                },
+                {
+                    "@id": "ct:Ø"
+                },
+                {
+                    "@id": "ct:ES01"
+                },
+                {
+                    "@id": "ct:F10"
+                },
+                {
+                    "@id": "ct:F23"
+                },
+                {
+                    "@id": "ct:q"
+                },
+                {
+                    "@id": "ct:F31"
+                },
+                {
+                    "@id": "ct:H01"
+                },
+                {
+                    "@id": "ct:F44"
+                },
+                {
+                    "@id": "ct:F17"
+                },
+                {
+                    "@id": "ct:F52"
+                },
+                {
+                    "@id": "ct:f°"
+                },
+                {
+                    "@id": "ct:x"
+                },
+                {
+                    "@id": "ct:k2"
+                },
+                {
+                    "@id": "ct:P"
+                },
+                {
+                    "@id": "ct:m"
+                },
+                {
+                    "@id": "ct:S'"
+                },
+                {
+                    "@id": "ct:F40"
+                },
+                {
+                    "@id": "ct:R"
+                },
+                {
+                    "@id": "ct:t"
+                },
+                {
+                    "@id": "ct:Gh"
+                },
+                {
+                    "@id": "ct:M09"
+                },
+                {
+                    "@id": "ct:E06"
+                },
+                {
+                    "@id": "ct:T01"
+                },
+                {
+                    "@id": "ct:å"
+                },
+                {
+                    "@id": "ct:e'"
+                },
+                {
+                    "@id": "ct:i"
+                },
+                {
+                    "@id": "ct:p'"
+                },
+                {
+                    "@id": "ct:Gb"
+                },
+                {
+                    "@id": "ct:D03"
+                },
+                {
+                    "@id": "ct:F'"
+                },
+                {
+                    "@id": "ct:M11"
+                },
+                {
+                    "@id": "ct:ç"
+                },
+                {
+                    "@id": "ct:ON01"
+                },
+                {
+                    "@id": "ct:M05"
+                },
+                {
+                    "@id": "ct:E02"
+                },
+                {
+                    "@id": "ct:H"
+                },
+                {
+                    "@id": "ct:á"
+                },
+                {
+                    "@id": "ct:M13"
+                },
+                {
+                    "@id": "ct:e"
+                },
+                {
+                    "@id": "ct:E09"
+                },
+                {
+                    "@id": "ct:h'"
+                },
+                {
+                    "@id": "ct:Æ"
+                },
+                {
+                    "@id": "ct:HW02"
+                },
+                {
+                    "@id": "ct:M01"
+                },
+                {
+                    "@id": "ct:X4"
+                },
+                {
+                    "@id": "ct:E11"
+                },
+                {
+                    "@id": "ct:D"
+                },
+                {
+                    "@id": "ct:ES06"
+                },
+                {
+                    "@id": "ct:F15"
+                },
+                {
+                    "@id": "ct:F28"
+                },
+                {
+                    "@id": "ct:F36"
+                },
+                {
+                    "@id": "ct:F49"
+                },
+                {
+                    "@id": "ct:H06"
+                },
+                {
+                    "@id": "ct:F09"
+                },
+                {
+                    "@id": "ct:ô"
+                },
+                {
+                    "@id": "ct:V01"
+                },
+                {
+                    "@id": "ct:F03"
+                },
+                {
+                    "@id": "ct:ES02"
+                },
+                {
+                    "@id": "ct:F11"
+                },
+                {
+                    "@id": "ct:F24"
+                },
+                {
+                    "@id": "ct:ES10"
+                },
+                {
+                    "@id": "ct:F32"
+                },
+                {
+                    "@id": "ct:F45"
+                },
+                {
+                    "@id": "ct:H02"
+                },
+                {
+                    "@id": "ct:Rh"
+                },
+                {
+                    "@id": "ct:F05"
+                },
+                {
+                    "@id": "ct:F18"
+                },
+                {
+                    "@id": "ct:y"
+                },
+                {
+                    "@id": "ct:D1"
+                },
+                {
+                    "@id": "ct:F20"
+                },
+                {
+                    "@id": "ct:n"
+                },
+                {
+                    "@id": "ct:F41"
+                },
+                {
+                    "@id": "ct:S"
+                },
+                {
+                    "@id": "ct:u"
+                },
+                {
+                    "@id": "ct:V'"
+                },
+                {
+                    "@id": "ct:E07"
+                },
+                {
+                    "@id": "ct:M"
+                },
+                {
+                    "@id": "ct:T02"
+                },
+                {
+                    "@id": "ct:j"
+                },
+                {
+                    "@id": "ct:D04"
+                },
+                {
+                    "@id": "ct:©"
+                },
+                {
+                    "@id": "ct:£"
+                },
+                {
+                    "@id": "ct:M06"
+                },
+                {
+                    "@id": "ct:E03"
+                },
+                {
+                    "@id": "ct:â"
+                },
+                {
+                    "@id": "ct:M14"
+                },
+                {
+                    "@id": "ct:f"
+                },
+                {
+                    "@id": "ct:q'"
+                },
+                {
+                    "@id": "ct:f'"
+                },
+                {
+                    "@id": "ct:¥"
+                },
+                {
+                    "@id": "ct:Ç"
+                },
+                {
+                    "@id": "ct:ÿ"
+                },
+                {
+                    "@id": "ct:Á"
+                },
+                {
+                    "@id": "ct:Gv"
+                },
+                {
+                    "@id": "ct:E12"
+                },
+                {
+                    "@id": "ct:#"
+                },
+                {
+                    "@id": "ct:E"
+                },
+                {
+                    "@id": "ct:Þ"
+                },
+                {
+                    "@id": "ct:x'"
+                },
+                {
+                    "@id": "ct:ES07"
+                },
+                {
+                    "@id": "ct:F16"
+                },
+                {
+                    "@id": "ct:b"
+                },
+                {
+                    "@id": "ct:M02"
+                },
+                {
+                    "@id": "ct:F37"
+                },
+                {
+                    "@id": "ct:H07"
+                },
+                {
+                    "@id": "ct:?"
+                },
+                {
+                    "@id": "ct:ç'"
+                },
+                {
+                    "@id": "ct:õ"
+                },
+                {
+                    "@id": "ct:V02"
+                },
+                {
+                    "@id": "ct:W3"
+                },
+                {
+                    "@id": "ct:X1"
+                },
+                {
+                    "@id": "ct:Y4"
+                },
+                {
+                    "@id": "ct:F04"
+                },
+                {
+                    "@id": "ct:A"
+                }
+            ],
+            "@type": "skos:Collection",
+            "skos:mappingRelation": {
+                "@id": "file:///tmp/RtmpEF6ALB/quartaireeenheid"
+            },
+            "dc:identifier": "quartaireeenheid",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Collectie van quartaireeenheid."
+            },
+            "skos:inScheme": {
+                "@id": "file:///tmp/RtmpEF6ALB/cs"
+            }
+        }
+    ],
+    "@context": {
+        "cs": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "ct": "https://data.bodemenondergrond.vlaanderen.be/id/concept/quartaireeenheid/",
+        "dct": "http://purl.org/dc/terms/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "colt": "https://data.bodemenondergrond.vlaanderen.be/id/collection/quartaireeenheid/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#"
+    }
+}
