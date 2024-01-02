@@ -8,17 +8,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>be.vlaanderen.bodemenondergrond.data.id.graph</groupId> <!-- e.g. be.vlaanderen.bodemenondergrond.data.id.graph -->
-  <artifactId>codelijst-quartaireeenheden</artifactId> <!-- e.g. codelijst-testrepo -->
-  <version>0.1.1-SNAPSHOT</version> <!-- 0.1.0-SNAPSHOT -->
+  <artifactId>codelijst-quartaireeenheid</artifactId> <!-- e.g. codelijst-testrepo -->
+  <version>0.1.0-SNAPSHOT</version> <!-- 0.1.0-SNAPSHOT -->
   <packaging>jar</packaging>
 
-  <name>codelijst-quartaireeenheden</name> <!-- e.g. codelijst-testrepo -->
+  <name>codelijst-quartaireeenheid</name> <!-- e.g. codelijst-testrepo -->
 
 
   <scm>
-        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-quartaireeenheden.git</connection>
-        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-quartaireeenheden.git</developerConnection>
-        <url>https://github.com/bodemenondergrond/codelijst-quartaireeenheden.git</url>
+        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-quartaireeenheid.git</connection>
+        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-quartaireeenheid.git</developerConnection>
+        <url>https://github.com/bodemenondergrond/codelijst-quartaireeenheid.git</url>
     <tag>HEAD</tag>
   </scm>
   <build>

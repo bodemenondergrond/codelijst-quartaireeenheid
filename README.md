@@ -1,8 +1,8 @@
-# codelijst-quartaireeenheden
+# codelijst-quartaireeenheid
 
 ## Samenvatting
 
-De codelijst 'quartaireeenheden' bevat eenduidige benamingen van ...
+De codelijst 'quartaireeenheid' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud
